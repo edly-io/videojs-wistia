@@ -25,4 +25,4 @@ You can use npm (`npm install videojs-wistia-tech`) or the source and build it u
 </html>
 ```
 
-Don't forget to set `playback_css_class` attribute it should combinitions of two css classes `wistia_embed` and `wistia_async_{videoid}`.
+Don't forget to set `playback_css_class` attribute it should be combinition of two css classes `wistia_embed` and `wistia_async_{videoid}`.
